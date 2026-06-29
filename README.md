@@ -33,7 +33,6 @@ standardizing text values, fixing data types, and engineering new features.
 | `task1_cleaning.ipynb` | Main Python notebook with all cleaning steps |
 | `customer_personality_analysis.csv` | Original raw dataset |
 | `customer_cleaned_data.csv` | Final cleaned dataset (Python output) |
-| `customer_cleaned_data.xlsx` | Excel version — verified with filters, formatting & duplicate check |
 | `README.md` | Project documentation |
 
 ## 📊 Result
