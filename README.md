@@ -32,7 +32,8 @@ standardizing text values, fixing data types, and engineering new features.
 |---|---|
 | `task1_cleaning.ipynb` | Main Python notebook with all cleaning steps |
 | `customer_personality_analysis.csv` | Original raw dataset |
-| `customer_cleaned_data.csv` | Final cleaned dataset |
+| `customer_cleaned_data.csv` | Final cleaned dataset (Python output) |
+| `customer_cleaned_data.xlsx` | Excel version — verified with filters, formatting & duplicate check |
 | `README.md` | Project documentation |
 
 ## 📊 Result
@@ -42,13 +43,3 @@ standardizing text values, fixing data types, and engineering new features.
 | Columns | 29 | 28 |
 | Missing Values | 24 | 0 |
 | Duplicate Rows | 0 | 0 |
-
-
-## 📁 Files in This Repository
-| File | Description |
-|---|---|
-| `task1_cleaning.ipynb` | Main Python notebook with all cleaning steps |
-| `customer_personality_analysis.csv` | Original raw dataset |
-| `customer_cleaned_data.csv` | Final cleaned dataset (Python output) |
-| `customer_cleaned_data.xlsx` | Excel version — verified with filters, formatting & duplicate check |
-| `README.md` | Project documentation |
